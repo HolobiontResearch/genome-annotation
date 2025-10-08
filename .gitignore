@@ -1,0 +1,14 @@
+.nextflow*
+work/
+data/
+*results*/
+.DS_Store
+testing/
+testing*
+test_data/
+*.pyc
+null/
+*.tsv
+metadata*
+*.swp
+.vscod
